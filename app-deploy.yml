@@ -33,7 +33,7 @@ spec:
     spec:
       containers:
       - name: springboot
-        image: suhair22/shrsonar: {{.Values.tag_name}}
+        image: suhair22/shrsonar:version
         imagePullPolicy: Always
         ports:
         - containerPort: 8080
