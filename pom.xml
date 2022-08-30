@@ -23,7 +23,7 @@
         <project.test.result.directory>${project.build.directory}/test-results</project.test.result.directory>
         <sonar.host.url>http://3.236.237.212:9000/</sonar.host.url>
         <sonar.login>admin</sonar.login>
-        <sonar.password>Shradmin</sonar.password>
+        <sonar.password>shradmin</sonar.password>
         <sonar.projectBaseDir>/home/ubuntu/sonar</sonar.projectBaseDir>
     </properties>
 
